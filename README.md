@@ -1,2 +1,2 @@
 # Fatec
-Conteúdo e exercícios das aulas
+Alguns conteúdos e exercícios das aulas
